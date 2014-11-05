@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Final project repository for Data Scientist's Toolbaxx
+Final project repository for Data Scientist's Toolbox
